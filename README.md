@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 **Ph.D. candidate** at Universidad Politécnica de Madrid (UPM)
+- 🎓 **Ph.D.** at Universidad Politécnica de Madrid (UPM)
 - 🔬 Researcher at **GTI-UPM** — Grupo de Tratamiento de Imágenes
 - 🎥 Working on **egocentric video understanding** & **embodied intelligence** — how AI perceives the world from a first-person perspective
 - ⚡ Making **vision-language models run lean** on edge devices (Raspberry Pi, embedded systems)
